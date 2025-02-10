@@ -56,6 +56,10 @@ console.log(assignmentDescription, value);
 
 
 
+// data types
+// number, string, boolean, bigint, null, undefined, symbol, object
+
+
 
 
 

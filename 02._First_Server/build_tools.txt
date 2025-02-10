@@ -1,0 +1,15 @@
+Examples: maven, gradle, ant, make, nuget, cargo, gem
+
+
+
+java               Node.js
+----               ------
+
+maven              npm, pnpm, yarn
+
+pomx.xml           package.json
+
+meta               meta
+dependencies       dependencies
+life cycle         scripts
+
